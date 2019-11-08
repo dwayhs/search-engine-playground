@@ -19,6 +19,11 @@
 
 ### 🏠 [Homepage](https://github.com/dwayhs/search-engine-playground#readme)
 
+## Prerequisites
+
+* npm >= 6.10.0
+* node >= 12.7.0
+
 ## Install
 
 ```sh
