@@ -1,6 +1,22 @@
 import React from 'react'
-import { Layout } from 'antd'
-const { Header, Content } = Layout
+import styled from 'styled-components'
+
+const Layout = styled.div`
+  display: flex;
+  flex-direction: column;
+
+  min-height: 100vh;
+`
+
+const Header = styled.div`
+  height: 60px;
+  background-color: #001529;
+`
+
+const Content = styled.div`
+  flex-grow: 1;
+  position: relative;
+`
 
 export default (props) => {
   return (
