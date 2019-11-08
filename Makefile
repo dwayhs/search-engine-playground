@@ -1,7 +1,8 @@
 start:
-	nf start
+	npm start
 
 setup: setup-interface setup-search-engine setup-server
+	npm install
 
 setup-interface:
 	cd interface && npm install

@@ -1,0 +1,23 @@
+{
+  "name": "search-engine-playground",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "foreman": "^3.0.1"
+  },
+  "scripts": {
+    "start": "nf start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwayhs/search-engine-playground.git"
+  },
+  "author": "dwayhs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwayhs/search-engine-playground/issues"
+  },
+  "homepage": "https://github.com/dwayhs/search-engine-playground#readme"
+}
